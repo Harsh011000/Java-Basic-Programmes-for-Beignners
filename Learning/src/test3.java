@@ -30,7 +30,7 @@ public class test3 {
                 }
             }
             else{
-                System.out.println("Invalid");
+                System.out.println("aja madar*****");
             }
         }
     }
